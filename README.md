@@ -13,7 +13,7 @@ word in the least guesses possible.
 3. Then the program will guess a letter based on the words it knows. If your word does not contain the letter
 enter 0. If it does contain the letter, then enter the position of the letter in the word. (ex. if your
 word is table and the program guesses the letter "a", enter 2 since "a" is in the second position)
-4. If your word contains the lettter multiole times, then you enter the positions of the letters one by one.
+4. If your word contains the lettter multiple times, then you enter the positions of the letters one by one.
 (ex. if your word is green, and the program guesses "e", first you type in 2, then enter, then type in 3, then enter,
 then type in 0 meaning there are no more letter e's in the word)
 
